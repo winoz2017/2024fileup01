@@ -1,0 +1,23 @@
+body {
+  /* background: skyblue; */
+}
+
+.fileView {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+  border-radius: 3px;
+
+  background: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.fileView input {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+}
