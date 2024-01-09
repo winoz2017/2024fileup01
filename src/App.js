@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>사진첩입니다11111111</h2>
+      <h2>사진첩입니다11111111ddddd</h2>
 
       <UploadFile handleImageUpload={handleImageUpload} />
       <ImageList imgData={imgData} />
